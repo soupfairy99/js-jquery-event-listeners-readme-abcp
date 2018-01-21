@@ -1,9 +1,4 @@
 //define functions here
-functions
-getIt()
-{$('p').on('click'alert 'hey')}
-
-$(document).ready(function(){
 
 // call functions here
 
