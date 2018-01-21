@@ -1,8 +1,7 @@
 //define functions here
 functions
 getIt()
-{$D
-
+{$
 
 $(document).ready(function(){
 
